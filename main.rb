@@ -1,6 +1,6 @@
 
-require 'rubygame'
-require './map.rb'
+require './rubygame/lib/rubygame'
+require './map'
 include Rubygame
 
 max_res = Screen.get_resolution

@@ -1,5 +1,5 @@
 
-require 'rubygame'
+require './rubygame/lib/rubygame'
 Rubygame::TTF.setup
 $name_font = Rubygame::TTF.new "Share_Tech/ShareTech-Regular.ttf", 18
 $funds_font = Rubygame::TTF.new "Share_Tech/ShareTech-Regular.ttf", 14
