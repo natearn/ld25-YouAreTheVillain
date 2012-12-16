@@ -1,5 +1,5 @@
 
-require './rubygame/lib/rubygame'
+require 'rubygame'
 require './map'
 include Rubygame
 
