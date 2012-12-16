@@ -1,0 +1,12 @@
+hello.
+
+use the arrow keys to change which island city thing you are targetting.
+
+space - Move (1 turn)
+r     - Rob bank (1 turn)
+l     - Build labratory (1 turn, $2000)
+s     - Build missile silo (1 turn, 10 lab points, $10000)
+
+The objective to to build the silo and fire the missile without getting caught be the detective (red dot).
+The detective can investigate islands to find you or your facilities. If a facility is found, it is destroyed.
+If you are found, you lose.
